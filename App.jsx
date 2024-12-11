@@ -18,7 +18,7 @@ import {
   Network
 } from 'lucide-react';
 
-// Comprehensive service and incident data
+// Comprehensive service and incident data 
 const initialServices = [
   { 
     id: 1,
